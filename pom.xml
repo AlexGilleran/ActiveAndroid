@@ -9,7 +9,7 @@
   <name>ActiveAndroid - Parent</name>
 
   <modules>
-    <module>pom-child.xml</module>
+    <module>main</module>
     <module>tests</module>
   </modules>
 

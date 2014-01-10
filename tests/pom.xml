@@ -9,12 +9,12 @@
   <parent>
     <groupId>com.activeandroid</groupId>
     <artifactId>activeandroid-parent</artifactId>
-    <version>3.1-SNAPSHOT</version>
+    <version>3.1-alexgilleran-SNAPSHOT</version>
   </parent>
 
   <groupId>com.activeandroid</groupId>
   <artifactId>activeandroid-tests</artifactId>
-  <version>3.1-SNAPSHOT</version>
+  <version>3.1-alexgilleran-SNAPSHOT</version>
   <packaging>apk</packaging>
   <name>ActiveAndroid - Tests</name>
 
@@ -36,7 +36,7 @@
       <groupId>com.activeandroid</groupId>
       <artifactId>activeandroid</artifactId>
       <type>jar</type>
-      <version>3.1-SNAPSHOT</version>
+      <version>3.1-alexgilleran-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
